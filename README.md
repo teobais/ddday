@@ -1,5 +1,8 @@
 # ddday
-> Ensure a day of a month has two digits.
+> Provides a **d**ouble-**d**igit representation for the requested **d**ay of a month.
+
+## Introduction
+As the naming reveals `ddday` stands for double-digit representation of a month's day
 
 ## Install
 ```

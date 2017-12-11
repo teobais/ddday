@@ -1,24 +1,30 @@
 {
-  "name": "npm-boiler",
-  "version": "1.0.1",
-  "description": "A boilerplate to create NPM packages",
+  "name": "ddday",
+  "version": "1.0.0",
+  "description": "Provides a double-digit representation for the requested day of a month.",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover  jasmine-node spec"
   },
   "repository": {
-    "url": "git+https://github.com/toubou91/npm-boilerplate.git",
+    "url": "git+https://github.com/toubou91/ddday.git",
     "type": "git"
   },
   "keywords": [
-    "boilerplate"
+    "day-of-month",
+    "javascript",
+    "ddday",
+    "month",
+    "day-of-month",
+    "two-digit",
+    "double-digit"
   ],
   "author": "Thodoris Bais",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toubou91/npm-boilerplate/issues"
+    "url": "https://github.com/toubou91/ddday/issues"
   },
-  "homepage": "https://github.com/toubou91/npm-boilerplate#readme",
+  "homepage": "https://github.com/toubou91/ddday#readme",
   "devDependencies": {
     "istanbul": "^0.4.5",
     "jasmine-node": "^1.14.5"
