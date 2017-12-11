@@ -9,10 +9,7 @@
 
 ## Install
 ```
-git clone https://github.com/toubou91/ddday
-```
-```
-npm install
+npm install -g ddday
 ```
 
 ## Use
