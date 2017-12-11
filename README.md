@@ -18,7 +18,7 @@ npm install
 ## Use
 ```javascript
 // load the module
-var ddday = require('index.js');
+var ddday = require('ddday');
 
 // example: 9th is represented with '9'. Convert it to '09'
 ddday(new Date().getDate()) // returns '09', if current day is the 9th of the month
