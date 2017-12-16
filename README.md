@@ -1,5 +1,7 @@
-# ddday
+# ddda
 > Provides a **d**ouble-**d**igit representation for the requested **d**ay of a month.
+
+![](ddday_logo.png)
 
 ## Naming
 > As the naming reveals `ddday` stands for **d**ouble-**d**igit representation of a month's **d**ay. Of course, "two-digit" sounds better than "double-digit", but the latter makes the final abbreviation more funny :bowtie: .
