@@ -1,6 +1,6 @@
 {
   "name": "ddday",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Provides a double-digit representation for the requested day of a month.",
   "main": "index.js",
   "scripts": {
