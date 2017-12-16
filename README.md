@@ -1,4 +1,4 @@
-# ddda
+# ddday
 > Provides a **d**ouble-**d**igit representation for the requested **d**ay of a month.
 
 ![](ddday_logo.png)
